@@ -50,4 +50,4 @@ Please send your solution to yacine@iwa.fi with the subject "Test candidature Ro
 The purpose of this test is to see how you architect an application and write proper code.
 Spec must be provided with the solution.
 
-If you have any questions, please proceed as you understand and describe them in the mail with the solutions.
+If you have any questions, please proceed as you understand and describe them in the mail with the solution.
