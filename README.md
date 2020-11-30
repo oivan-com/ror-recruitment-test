@@ -20,9 +20,10 @@ Our client wants the possibility to create new rules.
 Expected business code would be:
 
 ```ruby
-co = Cart.new(pricing_rules)
-co.add(item)
-co.add(item)
+cart = Cart.new(pricing_rules)
+cart.add(item)
+cart.add(item)
+# ...
 price = co.total
 ```
 
