@@ -24,7 +24,7 @@ cart = Cart.new(pricing_rules)
 cart.add(item)
 cart.add(item)
 # ...
-price = co.total
+price = cart.total
 ```
 
 Implement a cart and promotional system following these rules.
